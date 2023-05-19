@@ -1,1 +1,1 @@
-C:\temp\Bginfo\Bginfo64.exe C:\temp\Bginfo\config.bgi /timer:0
+C:\temp\Bginfo\bginfo-main\Bginfo64.exe C:\temp\Bginfo\bginfo-main\config.bgi /timer:0
